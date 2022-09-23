@@ -1,6 +1,7 @@
 body {
-    background-color: azure;
-    margin: 0 auto;
+    background-image: url("imgStore/日出.jpg");
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 h3 {
@@ -13,7 +14,7 @@ h3 {
 }
 
 #content {
-    height:600px;
+    height:720px;
     width:500px;
     background-color: snow
 }
