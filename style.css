@@ -1,0 +1,35 @@
+body {
+    background-color: azure;
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+}
+
+#footer {
+    background-color: darkkhaki;
+    text-align: center;
+}
+
+#content {
+    height:600px;
+    width:500px;
+    background-color: snow
+}
+
+#container {
+    width: 500px;
+    margin: 0 auto;
+}
+
+#header {
+    background-color: darkkhaki
+}
+
+#box {
+    border: none;
+    width: 90%;
+    height: 100%;
+    padding-left: 5%;
+}
